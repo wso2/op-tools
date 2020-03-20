@@ -1,0 +1,15 @@
+[
+    {
+    "loggerName":"AUDIT_LOG",
+    "loggerLevel":"DEBUG",
+    "additivity":true
+    },
+    {
+    "loggerName":"API_LOGGER.HealthCheck",
+    "loggerLevel":"DEBUG"
+    },
+    {
+    "loggerName":"API_LOGGER.ECommOrderTriggerAPI",
+    "additivity":false
+    }
+]
